@@ -1,0 +1,22 @@
+{
+  "name": "firestone",
+  "version": "1.0.0",
+  "description": "A blacksmith-themed code editor, built to offer users greater comfort while crafting their code.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alif-11/FireStone.git"
+  },
+  "author": "Alif",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Alif-11/FireStone/issues"
+  },
+  "homepage": "https://github.com/Alif-11/FireStone#readme",
+  "devDependencies": {
+    "electron": "^28.1.2"
+  }
+}
